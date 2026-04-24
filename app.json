@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Police Final V6",
+    "slug": "police-final-v6",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.samurolh.policev6"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "177879ba-d870-4953-af38-45ca1fa98004"
+      }
+    }
+  }
+}
